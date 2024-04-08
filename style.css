@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkkhaki;
+
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: s;
+    color: royalblue ;
+}
+
+ul{
+    background-color:royalblue;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    color: azure;
+    border-radius: 20px;
+    margin: 10px 10px;
+
+}
+
+
+form1{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: aquamarine;
+
+}
+
+div2{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+    border: 5px solid royalblue;
+
+
+}
+
+div2:hover{
+    background-color: azure;
+    color:royalblue;
+
+}
+
+
+
+
+
+
